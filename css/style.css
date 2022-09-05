@@ -35,6 +35,14 @@ body{
 	width: 100%;
 	z-index: 10;
 }
+
+.navbar_scrolled{
+	position: fixed;
+    animation-name: fadeInUp;
+    animation-duration: 1s;
+	background-color: #17171779;
+}
+
 .header__inner{
 	display: flex;
 	justify-content: space-between;
@@ -467,3 +475,16 @@ body{
 	background-repeat: no-repeat;
 	background-position: top right;
 }
+
+/* Header animated */
+@keyframes fadeInUp {
+	from {
+	  opacity: 0;
+	  top: -50px;
+	}
+	
+	to {
+	  opacity: 1;
+	  top: 0;
+	}
+  }
