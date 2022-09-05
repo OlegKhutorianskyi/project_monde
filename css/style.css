@@ -124,6 +124,16 @@ body{
 	background-size: cover;
 	height: 100vh;
 }
+
+.top__item-1{
+	background-image: url(../img/top-item-1.jpg);
+}
+.top__item-2{
+	background-image: url(../img/top-item-2.jpg);
+}
+.top__item-3{
+	background-image: url(../img/top-item-3.jpg);
+}
 .top__item-fon{
 	background-color: rgba(0,0,0,.55);
 	height: 100vh;
