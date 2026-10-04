@@ -1,4 +1,7 @@
+
 🌐 Project Monde
+
+Live Demo: https://olegkhutorianskyi.github.io/project_monde/
 
 Project Monde ist eine moderne Webanwendung, die entwickelt wurde, um ein nahtloses und interaktives Benutzererlebnis zu bieten. Das Projekt kombiniert eine saubere Architektur mit einer benutzerfreundlichen Oberfläche.
 
